@@ -1,0 +1,23 @@
+{
+  "name": "sssd",
+  "version": "1.0.0",
+  "description": "project sssd",
+  "main": "index.js",
+  "dependencies": {
+    "git": "^0.1.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Task0/ssssd.git"
+  },
+  "author": "tasko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Task0/ssssd/issues"
+  },
+  "homepage": "https://github.com/Task0/ssssd#readme"
+}
